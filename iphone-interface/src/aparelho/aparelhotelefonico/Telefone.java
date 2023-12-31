@@ -1,5 +1,5 @@
 package aparelho.aparelhotelefonico;
 
-public class Telefone {
+public class Telefone extends TelefoneAbstract {
     
 }

@@ -1,5 +1,6 @@
 package aparelho.navegadorinternet;
 
-public class Navegador {
+public class Navegador extends NavegadorAbstract {
     
+
 }

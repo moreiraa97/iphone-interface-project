@@ -1,5 +1,12 @@
 package aparelho.navegadorinternet;
 
-public class NavegadorInterface {
+public interface NavegadorInterface {
     
+
+    void exibirPagina();
+
+    void adicionarNovaAba();
+
+    void atualizarPagina();
+
 }
